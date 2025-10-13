@@ -1,2 +1,2 @@
 # Care Plus Health
-Website project for my personal portfolio 
+Care Plus Health Diagnostics and chatbot is an integrated healthcare service that combines medical diagnostic testing with an intelligent conversational assistant. Complementing this is the chatbot, a virtual assistant designed to interact with patients through text or voice, providing instant responses to health-related inquiries, and offering basic post-diagnosis support. Together, they form a streamlined system that enhances patient engagement, reduces waiting times, and improves access to healthcare information by merging traditional diagnostic services with modern artificial intelligence technology.
